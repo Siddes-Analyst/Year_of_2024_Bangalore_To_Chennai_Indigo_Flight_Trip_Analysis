@@ -7,7 +7,7 @@
 ---
 
 ## 🔍 Project Overview
-This project analyzes mobile sales, profit performance, and customer buying behavior across multiple models, price segments, and states over a 3-year period (2022–2024). The goal is to identify top-performing products, market trends, and growth opportunities to support strategic business decisions.
+This project analyzes flight operations, seat occupancy, revenue, and profitability for Indigo flights operating between Bangalore (BLR) and Chennai (MAA) in 2024. The objective is to identify high-performing flights, optimal timings, and aircraft efficiency to improve overall profitability.
 
 ## 🎯 Business Objective
 
