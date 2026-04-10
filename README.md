@@ -11,10 +11,10 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 
 ## 🎯 Business Objective
 
-- Identify top-performing mobile models
-- Analyze price segment contribution (low, medium, high)
-- Evaluate state-wise performance trends
-- Provide data-driven recommendations to improve sales & profitability
+- Analyze flight-wise and time-based performance
+- Compare aircraft efficiency (A320neo vs A321neo)
+- Identify high-demand time slots and trends
+- Provide data-driven recommendations to optimize revenue and operations
 
 ## 🛠️ Tools & Technologies
 
@@ -24,37 +24,33 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 
 ## 📌 Key Insights
 
-#### 📊 Model Performance
-- Y29 & T4 Pro contribute ~65% of total mobile sales, making them key revenue drivers
-- T4 Pro ranks #1 in sales & profit, but shows ~2.46% lower profit vs sales contribution
-- Y29 delivers ~3.82% higher profit vs sales, making it the most profitable model
-- High-end model X200 Ultra shows declining YoY performance, indicating low demand in premium segment
+#### ✈️ Aircraft Performance
+- A321neo contributes ~72% of total profit, outperforming A320neo due to higher seat capacity
+- A321neo achieves ~91% seat occupancy vs ~84% for A320neo
+- A320neo has higher operational cost ratio (~72%), reducing overall profitability
 
-#### 🏷️ Price Segment Insights
-- Medium price segment contributes ~58% of total sales, highest among all segments
-- Lower price segment delivers ~4% higher profit vs sales, indicating better margins
-- High price segment contributes only ~9% of sales, despite higher pricing
-- Customers show strong preference for ₹18K – ₹30K price range mobiles
+#### 🕒 Time-Based Performance
+- Morning & Evening flights achieve highest occupancy (~85–95%), driving maximum revenue
+- Evening flights rank #1 in overall performance, while morning flights generate highest profit
+- Afternoon & early morning flights show lowest performance, indicating low demand
 
-#### 🌍 State-Wise Performance
-- Karnataka shows highest growth (~0.32% YoY profit increase) and consistent performance
-- Tamil Nadu leads in overall contribution but shows declining trend (-0.14% YoY)
-- Telangana outperforms population share with ~2% higher contribution, making it a high-efficiency market
-- Andhra shows declining trend in 2024 (~0.11% sales drop) indicating potential market issues
+#### 📅 Day & Seasonal Trends
+- Weekend flights (Saturday, Sunday) achieve ~91% occupancy, highest among all days
+- Weekdays average ~86% occupancy, indicating consistent business travel demand
+- Q4 & Q3 drive highest occupancy and earnings, while Q2 & Q1 deliver higher profitability
 
-#### 📈 Trend Analysis
-- Year 2022 shows strongest overall performance across sales, profit, and volume
-- Medium segment dominates sales, while lower segment dominates profitability
-- Majority of demand is concentrated in mid-range models, with limited traction for premium devices
+#### 📊 Flight-Level Insights
+- Top-performing flights are A321neo during business hours (morning & evening slots)
+- 9 total flights analyzed, with majority of high performers concentrated in prime time slots
+- Fare pricing varies by time, with higher fares during business hours driving revenue
 
 ## 💡 Key Business Recommendations
-- Focus on mid-range segment expansion (₹18K–₹30K) to maximize sales
-- Increase low-cost model offerings to improve profit margins
-- Optimize T4 Pro pricing strategy to close profit gap
-- Reduce focus on premium segment (X200 Ultra) or reposition it
-- Strengthen marketing in declining regions (Tamil Nadu, Andhra)
-- Expand operations in high-growth markets (Karnataka, Telangana)
+- Increase A321neo deployment in high-demand time slots (morning & evening)
+- Replace A320neo with A321neo in underperforming but high-potential routes
+- Introduce discount strategies in low-demand slots to improve occupancy
+- Add new flights in peak time windows to maximize revenue
+- Optimize flight schedules based on weekday vs weekend demand patterns
 
 ## 📈 Conclusion
 
-This analysis shows that mid-range smartphones drive volume, while low-price segments drive profitability. Strategic focus on pricing, product mix, and regional targeting can significantly improve market share and overall business performance.
+This analysis highlights that flight timing and aircraft selection are key drivers of profitability. By optimizing scheduling and upgrading aircraft in high-demand slots, Indigo can significantly improve capacity utilization, revenue, and profit margins.
