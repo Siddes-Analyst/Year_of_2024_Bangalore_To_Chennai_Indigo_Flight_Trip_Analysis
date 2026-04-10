@@ -1,4 +1,4 @@
-# Year_of_2024_Bangalore_To_Chennai_Indigo_Flight_Trip_Analysis
+# Year of 2024 Bangalore To Chennai Indigo Flight Trip Analysis
 
 ## 🌐 Live Dashboard
 
