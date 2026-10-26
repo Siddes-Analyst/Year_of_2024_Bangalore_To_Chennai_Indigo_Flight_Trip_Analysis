@@ -23,6 +23,9 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 - Excel (Data Cleaning & Analysis)
 - Power BI (Dashboard & Visualization)
 
+![](01_Store_Wise.jpg)
+![](01_Store_Wise.jpg)
+
 ## 📌 Key Insights
 
 #### ✈️ Aircraft Performance
