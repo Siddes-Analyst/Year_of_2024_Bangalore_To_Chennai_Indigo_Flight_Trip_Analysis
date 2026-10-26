@@ -23,8 +23,8 @@ This project analyzes flight operations, seat occupancy, revenue, and profitabil
 - Excel (Data Cleaning & Analysis)
 - Power BI (Dashboard & Visualization)
 
-![](01_Store_Wise.jpg)
-![](01_Store_Wise.jpg)
+![](01_Indigo_Day_Analysis.jpg)
+![](02_Indigo_Year_Analysis.jpg)
 
 ## 📌 Key Insights
 
